@@ -1,0 +1,28 @@
+CorkBoard - A Java and JavaScript WebApp with a MySQL database
+
+User Stories
+-------------
+As a user, I would like to be able to manage my solo/team projects with broken down tasks my teammates or I can take.
+
+This means I should be able to...
+(MVP)
+----------------------------
+- Log in to my account
+- Edit account information
+- View other account information
+
+- Add new projects
+- View my current projects
+- Edit project information
+- Delete projects
+- Assign members to projects
+
+- Add new tasks
+- Edit task information
+- Mark tasks as complete, incomplete, high priority, optional, deleted
+- Allow members to assign themselves to tasks
+
+If I have time
+----------------------------
+- Add more security. Ex: Only project creators can delete tasks/change to optional
+- Or must ask for permission first if its a standard user.
