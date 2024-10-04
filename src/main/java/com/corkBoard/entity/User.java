@@ -8,5 +8,13 @@ import org.apache.logging.log4j.Logger;
 
 public class User {
 
+    /*
+        ID
+        Username
+        Name
+        Email
+        List of tasks
+        List of friends
+     */
 
 }
