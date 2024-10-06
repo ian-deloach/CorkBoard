@@ -5,6 +5,7 @@ target/
 
 ### Properties Files ###
 *.properties
+hibernate.cfg.xml
 
 ### Logs ###
 *.logs
